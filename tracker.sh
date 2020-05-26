@@ -3,7 +3,7 @@
 
    green="\e[92mLight green"
 
-    figlet white devils tracker
+    figlet lonely tracker
    
     
    echo -e $green
